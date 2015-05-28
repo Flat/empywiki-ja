@@ -20,7 +20,7 @@
 * Flask-CORS
 * bcrypt
 
-## Instructions  
+## 説明書  
 (このページにアップデート中 http://blog.bob131.so/2015/02/24/deploying-empyrean-redux.html を読む下さい。（英語）)
 
 [[コンフィグ|Configuration]]
