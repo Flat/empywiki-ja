@@ -1,7 +1,7 @@
 ﻿エムピーウィキ	
 * [[Home|ホーム]]
 * [[Projects|プロジェクト]]
-** [[empyrean/Home|エムピーリアン]]
+** [[empyrean/Home|エムピリアン]]
 ** [[gabriel/Home|ガブリエル]]
 * [https://wiki.empy.org/Contact コンタクト]
 * [https://wiki.empy.org/License ライセンス]
