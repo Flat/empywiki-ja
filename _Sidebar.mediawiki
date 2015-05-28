@@ -1,6 +1,6 @@
 ﻿エムピーウィキ	
-* [[Home ホーム]]
-* [[Projects プロジェクト]]
+* [[Home|ホーム]]
+* [[Projects|プロジェクト]]
 ** [[empyrean/Home|エムピーリアン]]
 ** [[gabriel/Home|ガブリエル]]
 * [https://wiki.empy.org/Contact コンタクト]
