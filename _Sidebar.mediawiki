@@ -1,5 +1,4 @@
-﻿エムピーウィキ	
-* [[Home|ホーム]]
+﻿* [[Home|ホーム]]
 * [[Projects|プロジェクト]]
 ** [[empyrean/Home|エムピーリアン]]
 ** [[gabriel/Home|ガブリエル]]
