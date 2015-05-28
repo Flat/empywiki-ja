@@ -4,7 +4,7 @@ require 'gollum/app'
 
 gollum_path = File.expand_path(File.dirname(__FILE__))
 template_path = File.expand_path('_templates')
-base_path = 'en'
+base_path = 'ja'
 
 Precious::App.set(:gollum_path, gollum_path)
 Precious::App.set(:default_markup, :github)
