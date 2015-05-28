@@ -1,12 +1,12 @@
-# Deploying Empyrean
+﻿# エムピリアン展開
 
-## Dependencies
+## 依存関係
 * Python 3  
 * MongoDB  
-* (Optional) pip  
+* (任意信号) pip  
 
 ### Python
-(Installing pip and running ```pip install -r requirements.txt``` will install all Python dependencies)  
+(pipをインストールと```pip install -r requirements.txt```を実行しますはPythonの依存関係をインストールします。)  
 
 * Flask
 * PyYaml
@@ -21,24 +21,24 @@
 * bcrypt
 
 ## Instructions  
-(While this page is being updated, see http://blog.bob131.so/2015/02/24/deploying-empyrean-redux.html)
+(このページにアップデート中http://blog.bob131.so/2015/02/24/deploying-empyrean-redux.htmlを読む下さい。（英語）)
 
-[[Configuration]]
+[[Configuration|コンフィグ]]
 
-[[Yahweh#first-time-setup]]
+[[Yahweh#first-time-setup| ヤハウェの新しい設定]]
 
-## Distribution-specific instructions
+## ディストリビューション特定説明書
 
-### Debian 8 and older
+### Debian 8と上
 
-pymongo versions later than 2.8 are known to not work.
+pymongoバージョン2.8の上が使いできません。
 
-Additional dependencies:
+追加的な依存関係:
 
 * ```python3-cffi```
 
-If using pip:
+pip使いなら:
 
-* Install package ```python3-pip```
-* Run ```pip3 install -r requirements.txt```  
-* Downgrade pymongo to version 2.8 by executing ```pip3 install pymongo==2.8```
+* パッケージをインストール ```python3-pip```
+* ```pip3 install -r requirements.txt``` を実行します 
+* pymongoのバージョン2.8に下げる ```pip3 install pymongo==2.8```を実行します
