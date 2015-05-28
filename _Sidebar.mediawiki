@@ -1,7 +1,7 @@
-Empy Wiki
-* [[Home]]
-* [[Projects]]
-** [[empyrean/Home|Empyrean]]
-** [[gabriel/Home|Gabriel]]
-* [https://wiki.empy.org/Contact Contact]
-* [https://wiki.empy.org/License License]
+﻿エムピーウィキ	
+* [[ホーム]]
+* [[プロジェクト]]
+** [[empyrean/Home|エムピーリアン]]
+** [[gabriel/Home|ガブリエル]]
+* [https://wiki.empy.org/Contact コンタクト]
+* [https://wiki.empy.org/License ライセンス]
