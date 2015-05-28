@@ -23,9 +23,9 @@
 ## Instructions  
 (このページにアップデート中 http://blog.bob131.so/2015/02/24/deploying-empyrean-redux.html を読む下さい。（英語）)
 
-[[Configuration|コンフィグ ]]
+[[コンフィグ|Configuration]]
 
-[[Yahweh#first-time-setup| ヤハウェの新しい設定 ]]
+[[ヤハウェの新しい設定|Yahweh#first-time-setup]]
 
 ## ディストリビューション特定説明書
 
