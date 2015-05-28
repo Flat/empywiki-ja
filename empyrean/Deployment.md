@@ -21,11 +21,11 @@
 * bcrypt
 
 ## Instructions  
-(このページにアップデート中http://blog.bob131.so/2015/02/24/deploying-empyrean-redux.htmlを読む下さい。（英語）)
+(このページにアップデート中 http://blog.bob131.so/2015/02/24/deploying-empyrean-redux.html を読む下さい。（英語）)
 
-[[Configuration|コンフィグ]]
+[[Configuration|コンフィグ ]]
 
-[[Yahweh#first-time-setup| ヤハウェの新しい設定]]
+[[Yahweh#first-time-setup| ヤハウェの新しい設定 ]]
 
 ## ディストリビューション特定説明書
 
