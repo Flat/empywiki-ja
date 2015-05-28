@@ -1,8 +1,8 @@
-# Empyrean
+﻿# エムピリアン
 
-Empyrean (sometimes referred to as "empyrean-core") is the server-side component of [empy.org](https://empy.org)'s service. This encompasses various components, such as EmPaste and Yahweh.
+エムピリアン「empyrean-core」は[empy.org](https://empy.org)サーヴィスのサーバサイドの要素です。「エムペースト」とか「ヤハウェ」とか付属します。
 
-## Project details
-License: AGPLv3  
-Maintainer: [Bob131](https://github.com/Bob131)  
+## プロジェクト細部
+ライセンス: AGPLv3  
+メンテナ: [Bob131](https://github.com/Bob131)  
 Github: [[https://github.com/empyreanfs/Empyrean]]
