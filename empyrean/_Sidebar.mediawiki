@@ -8,4 +8,4 @@
 * [[API|API参照]]
 * [[Client UX Guidelines|クライアントユーザーエクスペリエンスデザイン要綱 ]]
 * [[Yahweh|ヤハウェ]]
-* [[EmPaste｜エムペースト]]
+* [[EmPaste|エムペースト]]
